@@ -13,8 +13,3 @@ A complete Django REST API backend for the GreenTree/Springer Capital assessment
 - Query filtering, pagination, and ordering
 
 ## Installation
-
-### 1. Clone the repository
-```bash
-git clone <your-repo-url>
-cd greentree_backend
